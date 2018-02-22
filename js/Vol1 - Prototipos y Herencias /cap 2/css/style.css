@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  font-family: unset;
+  font-style: italic;
+}
+
+p  {
+  border-style: double;
+  margin-left: 10%;
+  margin-right: 10%;
+}
